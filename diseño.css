@@ -1,0 +1,55 @@
+
+.menu{
+    background-color:#3f5866;
+    margin: 10%;
+    display:flex;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+.nav ul{
+    color: #bdd3de ;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.clase1{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-align: center;
+
+}
+.clase2{
+    color: white;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center
+}
+.clase3{
+    color: white;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.clase4{
+    color: #bdd3de;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen1{
+    height: 400px;
+    width: 600px;
+    margin: 10px;
+    border: #3f5866;
+}
+
+.imagen2{
+    height: 400px;
+    width: 600px;
+    margin: 15px;
+    border: #3f5866
+}
+
